@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="15-bench-img" size="1.000000 1.000000" />
+    <ImageTarget name="14-chair2-img" size="1.000000 1.000000" />
+    <ImageTarget name="13-desk-img" size="1.000000 1.000000" />
+    <ImageTarget name="12-drawer-img" size="1.000000 1.000000" />
+    <ImageTarget name="11-conferencechair-img" size="1.000000 1.000000" />
+    <ImageTarget name="10-table-img" size="1.000000 1.000000" />
+    <ImageTarget name="9-woodtable2-img" size="1.000000 1.000000" />
+    <ImageTarget name="8-foldchair-img" size="1.000000 1.000000" />
+    <ImageTarget name="7-desk-img" size="1.000000 1.000000" />
+    <ImageTarget name="6-sofa-img" size="1.000000 1.000000" />
+    <ImageTarget name="5-modernsideboard-img" size="1.000000 1.000000" />
+    <ImageTarget name="4-roundsofa-img" size="1.000000 1.000000" />
+    <ImageTarget name="3-woodtable-img" size="1.000000 1.000000" />
+    <ImageTarget name="2chair-img" size="1.000000 1.000000" />
+    <ImageTarget name="1-tablechair-img" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
